@@ -2,7 +2,7 @@
 ## Installation
 - download code
 ```
-git clone https://github.com/RNADigitalSolutions/RNA-Filter.git
+git clone https://github.com/haorein/HogwartsRegister.git
 ```
 - create a virtual env (python3.8)
 - install requirements
